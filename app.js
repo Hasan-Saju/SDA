@@ -5,6 +5,6 @@ app.get("/", (req, res) => {
   res.send("Azure");
 });
 
-app.listen(8000, () => {
+app.listen(8080, () => {
   console.log("Server On");
 });

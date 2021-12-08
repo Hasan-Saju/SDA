@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Hasan-Saju/SDA#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.15"
+    "node" : "17.2.0"
   }
 }
